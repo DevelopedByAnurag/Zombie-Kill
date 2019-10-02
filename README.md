@@ -13,12 +13,13 @@
 
 
 
-Here is a game build my me using python named zombie Kill this game is build using a module named Pygame.
+Here is a game built my me using python named Zombie Kill. This game is built using a module named Pygame.
 
-This game is a small python game that is based on killing zombies. it is a static and simple game that I have build using core phython and its modules.
+This game is a small python game that is based on killing zombies. It is a static and simple game that I have built using core python and its modules.
 
+This is just a beta version. Am working on it to improve it UI. Will give an update as soon as i bring something new. Till then stay tuned and keep enjoying.
 
-##ScreenShots
+## ScreenShots
 
 
 ![1.png](https://raw.githubusercontent.com/DevelopedByAnurag/Zombie-Kill/master/screenshots/1.png?token=AYnmNedyyRB9j2C1FZ-da7q8N7W3Gzuzks5bHBApwA%3D%3D)
